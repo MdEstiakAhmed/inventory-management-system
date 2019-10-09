@@ -8,7 +8,7 @@
         <ol>
             <li>Create a database named m6 in localhost</li>
             <li>Import the b25.sql file into the database folder</li>
-            <li>open cmd in that location</li>
+            <li>open cmd in code folder location</li>
             <li>run a command "javac Start.java"</li>
             <li>run another command "java Start"</li>
         </ol>
